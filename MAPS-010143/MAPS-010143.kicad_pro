@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.15
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -149,7 +149,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.01,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.2,
         "min_hole_to_hole": 0.25,
@@ -171,7 +171,7 @@
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
           "td_onsmdpad": true,
-          "td_ontrackend": false,
+          "td_ontrackend": true,
           "td_onvia": true
         }
       ],
@@ -216,6 +216,7 @@
         0.18161,
         0.2,
         0.3,
+        0.3424,
         0.349,
         0.5,
         1.0,
@@ -538,10 +539,19 @@
         "wire_width": 6
       },
       {
+        "clearance": 0.2032,
+        "name": "JLC04161H-7621_without_solder",
+        "pcb_color": "rgb(12, 255, 0)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3259,
+        "tuning_profile": ""
+      },
+      {
         "clearance": 0.125,
         "name": "signal",
         "pcb_color": "rgb(255, 255, 80)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.18161,
         "tuning_profile": "",
@@ -552,7 +562,7 @@
         "clearance": 0.1,
         "name": "電源IC",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1,
         "tuning_profile": ""
@@ -591,6 +601,70 @@
       {
         "netclass": "Default",
         "pattern": ""
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/signal"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/LNA_RF_IN"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/LNA_RF_OUT"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/signal_2"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/LNA_RF_IN_2"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/LNA_RF_OUT_2"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/PHASE_IN_2"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/ATT_IN_2"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/ATT_OUT_2"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/signal_1"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/LNA_RF_IN_1"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/LNA_RF_OUT_1"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/PHASE_IN_1"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/ATT_IN_1"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/ATT_OUT_1"
+      },
+      {
+        "netclass": "JLC04161H-7621_without_solder",
+        "pattern": "/Test"
       }
     ]
   },
@@ -734,7 +808,7 @@
         "uuid": "ee7b2de5-f153-457a-b9c1-2b839233b527"
       }
     ],
-    "used_designators": "IC5,#PWR102",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
