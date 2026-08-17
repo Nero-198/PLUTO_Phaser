@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="780" viewBox="0 0 1500 780">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:'Segoe UI',Arial,sans-serif;fill:#172033}.title{font-size:25px;font-weight:600}.sub{font-size:14px;fill:#526078}.axis{font-size:13px}.label{font-size:15px;font-weight:600}.grid{stroke:#d8dee9;stroke-width:1}.ref0{fill:none;stroke:#1565c0;stroke-width:3}.ref180{fill:none;stroke:#ef6c00;stroke-width:3}.dot0{fill:#1565c0}.dot180{fill:#ef6c00}</style>
+<text x="105" y="35" class="title">RMS phase error: 0-degree reference versus 180-degree reference</text>
+<text x="105" y="60" class="sub">Each reference state is zero by definition and is excluded from its corresponding RMS calculation</text>
+<text x="25" y="125" class="label">CH1</text>
+<line x1="105" y1="345" x2="1410" y2="345" class="grid"/>
+<text x="93" y="350" class="axis" text-anchor="end">0</text>
+<line x1="105" y1="305" x2="1410" y2="305" class="grid"/>
+<text x="93" y="310" class="axis" text-anchor="end">1</text>
+<line x1="105" y1="265" x2="1410" y2="265" class="grid"/>
+<text x="93" y="270" class="axis" text-anchor="end">2</text>
+<line x1="105" y1="225" x2="1410" y2="225" class="grid"/>
+<text x="93" y="230" class="axis" text-anchor="end">3</text>
+<line x1="105" y1="185" x2="1410" y2="185" class="grid"/>
+<text x="93" y="190" class="axis" text-anchor="end">4</text>
+<line x1="105" y1="145" x2="1410" y2="145" class="grid"/>
+<text x="93" y="150" class="axis" text-anchor="end">5</text>
+<line x1="105" y1="105" x2="1410" y2="105" class="grid"/>
+<text x="93" y="110" class="axis" text-anchor="end">6</text>
+<polyline points="105.0,153.8 192.0,246.5 279.0,212.1 453.0,268.5 714.0,223.5 975.0,238.1 1149.0,250.2 1410.0,215.0" class="ref0"/>
+<circle cx="105.0" cy="153.8" r="4" class="dot0"/>
+<circle cx="192.0" cy="246.5" r="4" class="dot0"/>
+<circle cx="279.0" cy="212.1" r="4" class="dot0"/>
+<circle cx="453.0" cy="268.5" r="4" class="dot0"/>
+<circle cx="714.0" cy="223.5" r="4" class="dot0"/>
+<circle cx="975.0" cy="238.1" r="4" class="dot0"/>
+<circle cx="1149.0" cy="250.2" r="4" class="dot0"/>
+<circle cx="1410.0" cy="215.0" r="4" class="dot0"/>
+<polyline points="105.0,193.0 192.0,248.7 279.0,241.6 453.0,220.7 714.0,131.0 975.0,163.6 1149.0,252.5 1410.0,187.2" class="ref180"/>
+<circle cx="105.0" cy="193.0" r="4" class="dot180"/>
+<circle cx="192.0" cy="248.7" r="4" class="dot180"/>
+<circle cx="279.0" cy="241.6" r="4" class="dot180"/>
+<circle cx="453.0" cy="220.7" r="4" class="dot180"/>
+<circle cx="714.0" cy="131.0" r="4" class="dot180"/>
+<circle cx="975.0" cy="163.6" r="4" class="dot180"/>
+<circle cx="1149.0" cy="252.5" r="4" class="dot180"/>
+<circle cx="1410.0" cy="187.2" r="4" class="dot180"/>
+<text x="105" y="370" class="axis" text-anchor="middle">2.3</text>
+<text x="192" y="370" class="axis" text-anchor="middle">2.4</text>
+<text x="279" y="370" class="axis" text-anchor="middle">2.5</text>
+<text x="453" y="370" class="axis" text-anchor="middle">2.7</text>
+<text x="714" y="370" class="axis" text-anchor="middle">3.0</text>
+<text x="975" y="370" class="axis" text-anchor="middle">3.3</text>
+<text x="1149" y="370" class="axis" text-anchor="middle">3.5</text>
+<text x="1410" y="370" class="axis" text-anchor="middle">3.8</text>
+<text x="25" y="450" class="label">CH2</text>
+<line x1="105" y1="670" x2="1410" y2="670" class="grid"/>
+<text x="93" y="675" class="axis" text-anchor="end">0</text>
+<line x1="105" y1="630" x2="1410" y2="630" class="grid"/>
+<text x="93" y="635" class="axis" text-anchor="end">1</text>
+<line x1="105" y1="590" x2="1410" y2="590" class="grid"/>
+<text x="93" y="595" class="axis" text-anchor="end">2</text>
+<line x1="105" y1="550" x2="1410" y2="550" class="grid"/>
+<text x="93" y="555" class="axis" text-anchor="end">3</text>
+<line x1="105" y1="510" x2="1410" y2="510" class="grid"/>
+<text x="93" y="515" class="axis" text-anchor="end">4</text>
+<line x1="105" y1="470" x2="1410" y2="470" class="grid"/>
+<text x="93" y="475" class="axis" text-anchor="end">5</text>
+<line x1="105" y1="430" x2="1410" y2="430" class="grid"/>
+<text x="93" y="435" class="axis" text-anchor="end">6</text>
+<polyline points="105.0,489.1 192.0,567.2 279.0,503.7 453.0,535.5 714.0,507.6 975.0,589.4 1149.0,583.4 1410.0,568.7" class="ref0"/>
+<circle cx="105.0" cy="489.1" r="4" class="dot0"/>
+<circle cx="192.0" cy="567.2" r="4" class="dot0"/>
+<circle cx="279.0" cy="503.7" r="4" class="dot0"/>
+<circle cx="453.0" cy="535.5" r="4" class="dot0"/>
+<circle cx="714.0" cy="507.6" r="4" class="dot0"/>
+<circle cx="975.0" cy="589.4" r="4" class="dot0"/>
+<circle cx="1149.0" cy="583.4" r="4" class="dot0"/>
+<circle cx="1410.0" cy="568.7" r="4" class="dot0"/>
+<polyline points="105.0,457.5 192.0,594.6 279.0,553.6 453.0,501.4 714.0,520.4 975.0,618.8 1149.0,595.6 1410.0,554.1" class="ref180"/>
+<circle cx="105.0" cy="457.5" r="4" class="dot180"/>
+<circle cx="192.0" cy="594.6" r="4" class="dot180"/>
+<circle cx="279.0" cy="553.6" r="4" class="dot180"/>
+<circle cx="453.0" cy="501.4" r="4" class="dot180"/>
+<circle cx="714.0" cy="520.4" r="4" class="dot180"/>
+<circle cx="975.0" cy="618.8" r="4" class="dot180"/>
+<circle cx="1149.0" cy="595.6" r="4" class="dot180"/>
+<circle cx="1410.0" cy="554.1" r="4" class="dot180"/>
+<text x="105" y="695" class="axis" text-anchor="middle">2.3</text>
+<text x="192" y="695" class="axis" text-anchor="middle">2.4</text>
+<text x="279" y="695" class="axis" text-anchor="middle">2.5</text>
+<text x="453" y="695" class="axis" text-anchor="middle">2.7</text>
+<text x="714" y="695" class="axis" text-anchor="middle">3.0</text>
+<text x="975" y="695" class="axis" text-anchor="middle">3.3</text>
+<text x="1149" y="695" class="axis" text-anchor="middle">3.5</text>
+<text x="1410" y="695" class="axis" text-anchor="middle">3.8</text>
+<text x="20" y="390" class="axis" transform="rotate(-90 20 390)" text-anchor="middle">RMS phase error (degrees)</text>
+<text x="757.5" y="745" class="label" text-anchor="middle">RF frequency (GHz)</text>
+<line x1="1050" y1="85" x2="1090" y2="85" class="ref0"/><text x="1100" y="90" class="axis">0-degree reference</text>
+<line x1="1230" y1="85" x2="1270" y2="85" class="ref180"/><text x="1280" y="90" class="axis">180-degree reference</text>
+</svg>

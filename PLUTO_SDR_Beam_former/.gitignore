@@ -1,0 +1,55 @@
+# Measurement captures (raw IQ data, screenshots, and run logs)
+/captures/
+
+# Build products and downloaded/scratch dependencies
+/build/
+/out/
+/cmake-build-*/
+/tmp/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/CTestTestfile.cmake
+**/Testing/
+**/.ninja_*
+
+# KiCad local state, locks, and automatic backups
+/kicad/**/.history/
+/kicad/**/*-backups/
+/kicad/**/~*.lck
+/kicad/**/*.kicad_prl
+/kicad/**/*.kicad_pcb-bak
+/kicad/**/*.kicad_sch-bak
+/kicad/**/_autosave-*
+/kicad/**/fp-info-cache
+
+# JLCPCB fabrication exports and submission archives
+/kicad/v[0-9]*/
+/kicad/**/*.zip
+
+# Local Codex-generated visualizations
+/.codex/
+
+# Python tooling caches and virtual environments
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+/.venv/
+/venv/
+*.py[cod]
+
+# Editor and operating-system files
+/.vs/
+/.idea/
+*.suo
+*.user
+*.VC.db
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+
+# Logs generated during local experiments
+*.log

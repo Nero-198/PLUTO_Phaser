@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="930" viewBox="0 0 1500 930">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:'Segoe UI',Arial,sans-serif;fill:#172033}.title{font-size:25px;font-weight:600}.sub{font-size:14px;fill:#526078}.axis{font-size:13px}.label{font-size:14px;font-weight:600}.grid{stroke:#d8dee9;stroke-width:1}.line1{fill:none;stroke:#1565c0;stroke-width:3}.line2{fill:none;stroke:#ef6c00;stroke-width:3}.dash{stroke-dasharray:9 6}.dot1{fill:#1565c0}.dot2{fill:#ef6c00}</style>
+<text x="105" y="35" class="title">Frequency dependence of phase accuracy and amplitude variation</text>
+<text x="105" y="60" class="sub">Solid = RMS phase error; dashed = maximum absolute phase error; lower panel = amplitude span over 16 phase states</text>
+<line x1="105" y1="465" x2="1410" y2="465" class="grid"/>
+<line x1="105" y1="105" x2="105" y2="465" class="grid"/>
+<line x1="105" y1="465" x2="1410" y2="465" class="grid"/>
+<text x="93" y="470" class="axis" text-anchor="end">0</text>
+<line x1="105" y1="425" x2="1410" y2="425" class="grid"/>
+<text x="93" y="430" class="axis" text-anchor="end">1</text>
+<line x1="105" y1="385" x2="1410" y2="385" class="grid"/>
+<text x="93" y="390" class="axis" text-anchor="end">2</text>
+<line x1="105" y1="345" x2="1410" y2="345" class="grid"/>
+<text x="93" y="350" class="axis" text-anchor="end">3</text>
+<line x1="105" y1="305" x2="1410" y2="305" class="grid"/>
+<text x="93" y="310" class="axis" text-anchor="end">4</text>
+<line x1="105" y1="265" x2="1410" y2="265" class="grid"/>
+<text x="93" y="270" class="axis" text-anchor="end">5</text>
+<line x1="105" y1="225" x2="1410" y2="225" class="grid"/>
+<text x="93" y="230" class="axis" text-anchor="end">6</text>
+<line x1="105" y1="185" x2="1410" y2="185" class="grid"/>
+<text x="93" y="190" class="axis" text-anchor="end">7</text>
+<line x1="105" y1="145" x2="1410" y2="145" class="grid"/>
+<text x="93" y="150" class="axis" text-anchor="end">8</text>
+<line x1="105" y1="105" x2="1410" y2="105" class="grid"/>
+<text x="93" y="110" class="axis" text-anchor="end">9</text>
+<text x="25" y="285" class="label" transform="rotate(-90 25 285)" text-anchor="middle">Phase error (deg)</text>
+<line x1="105" y1="835" x2="1410" y2="835" class="grid"/>
+<line x1="105" y1="575" x2="105" y2="835" class="grid"/>
+<line x1="105" y1="835" x2="1410" y2="835" class="grid"/>
+<text x="93" y="840" class="axis" text-anchor="end">0</text>
+<line x1="105" y1="791.666666666667" x2="1410" y2="791.666666666667" class="grid"/>
+<text x="93" y="796.666666666667" class="axis" text-anchor="end">0.5</text>
+<line x1="105" y1="748.333333333333" x2="1410" y2="748.333333333333" class="grid"/>
+<text x="93" y="753.333333333333" class="axis" text-anchor="end">1</text>
+<line x1="105" y1="705" x2="1410" y2="705" class="grid"/>
+<text x="93" y="710" class="axis" text-anchor="end">1.5</text>
+<line x1="105" y1="661.666666666667" x2="1410" y2="661.666666666667" class="grid"/>
+<text x="93" y="666.666666666667" class="axis" text-anchor="end">2</text>
+<line x1="105" y1="618.333333333333" x2="1410" y2="618.333333333333" class="grid"/>
+<text x="93" y="623.333333333333" class="axis" text-anchor="end">2.5</text>
+<line x1="105" y1="575" x2="1410" y2="575" class="grid"/>
+<text x="93" y="580" class="axis" text-anchor="end">3</text>
+<text x="25" y="705" class="label" transform="rotate(-90 25 705)" text-anchor="middle">Amplitude span (dB)</text>
+<text x="105" y="863" class="axis" text-anchor="middle">2.3</text>
+<text x="192" y="863" class="axis" text-anchor="middle">2.4</text>
+<text x="279" y="863" class="axis" text-anchor="middle">2.5</text>
+<text x="453" y="863" class="axis" text-anchor="middle">2.7</text>
+<text x="714" y="863" class="axis" text-anchor="middle">3.0</text>
+<text x="975" y="863" class="axis" text-anchor="middle">3.3</text>
+<text x="1149" y="863" class="axis" text-anchor="middle">3.5</text>
+<text x="1410" y="863" class="axis" text-anchor="middle">3.8</text>
+<text x="757.5" y="897" class="label" text-anchor="middle">RF frequency (GHz)</text>
+<polyline points="105.0,273.8 192.0,366.5 279.0,332.1 453.0,388.5 714.0,343.5 975.0,358.1 1149.0,370.2 1410.0,335.0" class="line1"/>
+<circle cx="105.0" cy="273.8" r="4" class="dot1"/>
+<circle cx="192.0" cy="366.5" r="4" class="dot1"/>
+<circle cx="279.0" cy="332.1" r="4" class="dot1"/>
+<circle cx="453.0" cy="388.5" r="4" class="dot1"/>
+<circle cx="714.0" cy="343.5" r="4" class="dot1"/>
+<circle cx="975.0" cy="358.1" r="4" class="dot1"/>
+<circle cx="1149.0" cy="370.2" r="4" class="dot1"/>
+<circle cx="1410.0" cy="335.0" r="4" class="dot1"/>
+<polyline points="105.0,123.4 192.0,265.8 279.0,180.5 453.0,333.0 714.0,268.4 975.0,283.9 1149.0,268.2 1410.0,209.2" class="line1 dash"/>
+<circle cx="105.0" cy="123.4" r="4" class="dot1"/>
+<circle cx="192.0" cy="265.8" r="4" class="dot1"/>
+<circle cx="279.0" cy="180.5" r="4" class="dot1"/>
+<circle cx="453.0" cy="333.0" r="4" class="dot1"/>
+<circle cx="714.0" cy="268.4" r="4" class="dot1"/>
+<circle cx="975.0" cy="283.9" r="4" class="dot1"/>
+<circle cx="1149.0" cy="268.2" r="4" class="dot1"/>
+<circle cx="1410.0" cy="209.2" r="4" class="dot1"/>
+<polyline points="105.0,714.4 192.0,742.7 279.0,717.7 453.0,752.4 714.0,708.4 975.0,718.8 1149.0,668.3 1410.0,627.4" class="line1"/>
+<circle cx="105.0" cy="714.4" r="4" class="dot1"/>
+<circle cx="192.0" cy="742.7" r="4" class="dot1"/>
+<circle cx="279.0" cy="717.7" r="4" class="dot1"/>
+<circle cx="453.0" cy="752.4" r="4" class="dot1"/>
+<circle cx="714.0" cy="708.4" r="4" class="dot1"/>
+<circle cx="975.0" cy="718.8" r="4" class="dot1"/>
+<circle cx="1149.0" cy="668.3" r="4" class="dot1"/>
+<circle cx="1410.0" cy="627.4" r="4" class="dot1"/>
+<polyline points="105.0,284.1 192.0,362.2 279.0,298.7 453.0,330.5 714.0,302.6 975.0,384.4 1149.0,378.4 1410.0,363.7" class="line2"/>
+<circle cx="105.0" cy="284.1" r="4" class="dot2"/>
+<circle cx="192.0" cy="362.2" r="4" class="dot2"/>
+<circle cx="279.0" cy="298.7" r="4" class="dot2"/>
+<circle cx="453.0" cy="330.5" r="4" class="dot2"/>
+<circle cx="714.0" cy="302.6" r="4" class="dot2"/>
+<circle cx="975.0" cy="384.4" r="4" class="dot2"/>
+<circle cx="1149.0" cy="378.4" r="4" class="dot2"/>
+<circle cx="1410.0" cy="363.7" r="4" class="dot2"/>
+<polyline points="105.0,124.8 192.0,263.0 279.0,149.3 453.0,219.7 714.0,117.6 975.0,337.0 1149.0,329.2 1410.0,261.2" class="line2 dash"/>
+<circle cx="105.0" cy="124.8" r="4" class="dot2"/>
+<circle cx="192.0" cy="263.0" r="4" class="dot2"/>
+<circle cx="279.0" cy="149.3" r="4" class="dot2"/>
+<circle cx="453.0" cy="219.7" r="4" class="dot2"/>
+<circle cx="714.0" cy="117.6" r="4" class="dot2"/>
+<circle cx="975.0" cy="337.0" r="4" class="dot2"/>
+<circle cx="1149.0" cy="329.2" r="4" class="dot2"/>
+<circle cx="1410.0" cy="261.2" r="4" class="dot2"/>
+<polyline points="105.0,703.8 192.0,757.9 279.0,727.8 453.0,730.8 714.0,691.4 975.0,728.1 1149.0,708.6 1410.0,623.4" class="line2"/>
+<circle cx="105.0" cy="703.8" r="4" class="dot2"/>
+<circle cx="192.0" cy="757.9" r="4" class="dot2"/>
+<circle cx="279.0" cy="727.8" r="4" class="dot2"/>
+<circle cx="453.0" cy="730.8" r="4" class="dot2"/>
+<circle cx="714.0" cy="691.4" r="4" class="dot2"/>
+<circle cx="975.0" cy="728.1" r="4" class="dot2"/>
+<circle cx="1149.0" cy="708.6" r="4" class="dot2"/>
+<circle cx="1410.0" cy="623.4" r="4" class="dot2"/>
+<line x1="1110" y1="85" x2="1150" y2="85" class="line1"/><text x="1160" y="90" class="axis">CH1</text>
+<line x1="1230" y1="85" x2="1270" y2="85" class="line2"/><text x="1280" y="90" class="axis">CH2</text>
+</svg>

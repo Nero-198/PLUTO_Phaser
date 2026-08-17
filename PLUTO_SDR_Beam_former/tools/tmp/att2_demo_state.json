@@ -1,0 +1,10 @@
+{
+    "timestamp":  "2026-07-26T22:11:05.6519923+09:00",
+    "status":  "complete",
+    "label":  "SAFE",
+    "attenuation_db":  31.5,
+    "remaining_seconds":  0,
+    "lna1":  "OFF",
+    "lna2":  "OFF",
+    "expected_observation":  "CH2 RF level should be lowest"
+}

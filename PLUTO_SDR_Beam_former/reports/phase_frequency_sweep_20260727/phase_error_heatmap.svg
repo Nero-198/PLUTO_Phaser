@@ -1,0 +1,568 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="880" viewBox="0 0 1640 880">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:'Segoe UI',Arial,sans-serif;fill:#172033}.title{font-size:25px;font-weight:600}.sub{font-size:14px;fill:#526078}.axis{font-size:12px}.cell{font-size:12px;font-weight:600}.panel{font-size:18px;font-weight:600}.grid{stroke:#d8dee9;stroke-width:1}</style>
+<text x="120" y="34" class="title">MAPS phase error by frequency and commanded phase</text>
+<text x="120" y="58" class="sub">Error = measured phase-shift magnitude - commanded phase; values in degrees</text>
+<text x="20" y="112" class="panel">CH1</text>
+<text x="164" y="82" class="axis" text-anchor="middle">0°</text>
+<text x="252" y="82" class="axis" text-anchor="middle">22.5°</text>
+<text x="340" y="82" class="axis" text-anchor="middle">45°</text>
+<text x="428" y="82" class="axis" text-anchor="middle">67.5°</text>
+<text x="516" y="82" class="axis" text-anchor="middle">90°</text>
+<text x="604" y="82" class="axis" text-anchor="middle">112.5°</text>
+<text x="692" y="82" class="axis" text-anchor="middle">135°</text>
+<text x="780" y="82" class="axis" text-anchor="middle">157.5°</text>
+<text x="868" y="82" class="axis" text-anchor="middle">180°</text>
+<text x="956" y="82" class="axis" text-anchor="middle">202.5°</text>
+<text x="1044" y="82" class="axis" text-anchor="middle">225°</text>
+<text x="1132" y="82" class="axis" text-anchor="middle">247.5°</text>
+<text x="1220" y="82" class="axis" text-anchor="middle">270°</text>
+<text x="1308" y="82" class="axis" text-anchor="middle">292.5°</text>
+<text x="1396" y="82" class="axis" text-anchor="middle">315°</text>
+<text x="1484" y="82" class="axis" text-anchor="middle">337.5°</text>
+<text x="106" y="116" class="axis" text-anchor="end">2.3 GHz</text>
+<rect x="120" y="92" width="88" height="38" fill="#FFF7F4" class="grid"/>
+<text x="164" y="116" class="cell" text-anchor="middle">+0.1</text>
+<rect x="208" y="92" width="88" height="38" fill="#E2EBFF" class="grid"/>
+<text x="252" y="116" class="cell" text-anchor="middle">-1.1</text>
+<rect x="296" y="92" width="88" height="38" fill="#FFE3E0" class="grid"/>
+<text x="340" y="116" class="cell" text-anchor="middle">+1.3</text>
+<rect x="384" y="92" width="88" height="38" fill="#F0F5FF" class="grid"/>
+<text x="428" y="116" class="cell" text-anchor="middle">-0.3</text>
+<rect x="472" y="92" width="88" height="38" fill="#E8EFFF" class="grid"/>
+<text x="516" y="116" class="cell" text-anchor="middle">-0.8</text>
+<rect x="560" y="92" width="88" height="38" fill="#D5E2FF" class="grid"/>
+<text x="604" y="116" class="cell" text-anchor="middle">-2.0</text>
+<rect x="648" y="92" width="88" height="38" fill="#DAE5FF" class="grid"/>
+<text x="692" y="116" class="cell" text-anchor="middle">-1.7</text>
+<rect x="736" y="92" width="88" height="38" fill="#FFE6E3" class="grid"/>
+<text x="780" y="116" class="cell" text-anchor="middle">+1.1</text>
+<rect x="824" y="92" width="88" height="38" fill="#A0BEFF" class="grid"/>
+<text x="868" y="116" class="cell" text-anchor="middle">-5.2</text>
+<rect x="912" y="92" width="88" height="38" fill="#8BAFFF" class="grid"/>
+<text x="956" y="116" class="cell" text-anchor="middle">-6.6</text>
+<rect x="1000" y="92" width="88" height="38" fill="#ADC6FF" class="grid"/>
+<text x="1044" y="116" class="cell" text-anchor="middle">-4.5</text>
+<rect x="1088" y="92" width="88" height="38" fill="#92B3FF" class="grid"/>
+<text x="1132" y="116" class="cell" text-anchor="middle">-6.2</text>
+<rect x="1176" y="92" width="88" height="38" fill="#9FBCFF" class="grid"/>
+<text x="1220" y="116" class="cell" text-anchor="middle">-5.4</text>
+<rect x="1264" y="92" width="88" height="38" fill="#7BA4FF" class="grid"/>
+<text x="1308" y="116" class="cell" text-anchor="middle">-7.6</text>
+<rect x="1352" y="92" width="88" height="38" fill="#6B99FF" class="grid"/>
+<text x="1396" y="116" class="cell" text-anchor="middle">-8.5</text>
+<rect x="1440" y="92" width="88" height="38" fill="#8BAFFF" class="grid"/>
+<text x="1484" y="116" class="cell" text-anchor="middle">-6.6</text>
+<text x="106" y="154" class="axis" text-anchor="end">2.4 GHz</text>
+<rect x="120" y="130" width="88" height="38" fill="#F4F8FF" class="grid"/>
+<text x="164" y="154" class="cell" text-anchor="middle">0.0</text>
+<rect x="208" y="130" width="88" height="38" fill="#CCDCFF" class="grid"/>
+<text x="252" y="154" class="cell" text-anchor="middle">-2.5</text>
+<rect x="296" y="130" width="88" height="38" fill="#FFF1EE" class="grid"/>
+<text x="340" y="154" class="cell" text-anchor="middle">+0.4</text>
+<rect x="384" y="130" width="88" height="38" fill="#DCE7FF" class="grid"/>
+<text x="428" y="154" class="cell" text-anchor="middle">-1.6</text>
+<rect x="472" y="130" width="88" height="38" fill="#FFEBE8" class="grid"/>
+<text x="516" y="154" class="cell" text-anchor="middle">+0.8</text>
+<rect x="560" y="130" width="88" height="38" fill="#FFDDDA" class="grid"/>
+<text x="604" y="154" class="cell" text-anchor="middle">+1.6</text>
+<rect x="648" y="130" width="88" height="38" fill="#FFDBD8" class="grid"/>
+<text x="692" y="154" class="cell" text-anchor="middle">+1.8</text>
+<rect x="736" y="130" width="88" height="38" fill="#F5F8FF" class="grid"/>
+<text x="780" y="154" class="cell" text-anchor="middle">0.0</text>
+<rect x="824" y="130" width="88" height="38" fill="#CBDBFF" class="grid"/>
+<text x="868" y="154" class="cell" text-anchor="middle">-2.6</text>
+<rect x="912" y="130" width="88" height="38" fill="#A5C1FF" class="grid"/>
+<text x="956" y="154" class="cell" text-anchor="middle">-5.0</text>
+<rect x="1000" y="130" width="88" height="38" fill="#CFDEFF" class="grid"/>
+<text x="1044" y="154" class="cell" text-anchor="middle">-2.4</text>
+<rect x="1088" y="130" width="88" height="38" fill="#AEC7FF" class="grid"/>
+<text x="1132" y="154" class="cell" text-anchor="middle">-4.4</text>
+<rect x="1176" y="130" width="88" height="38" fill="#DEE8FF" class="grid"/>
+<text x="1220" y="154" class="cell" text-anchor="middle">-1.4</text>
+<rect x="1264" y="130" width="88" height="38" fill="#E3ECFF" class="grid"/>
+<text x="1308" y="154" class="cell" text-anchor="middle">-1.1</text>
+<rect x="1352" y="130" width="88" height="38" fill="#D9E5FF" class="grid"/>
+<text x="1396" y="154" class="cell" text-anchor="middle">-1.7</text>
+<rect x="1440" y="130" width="88" height="38" fill="#BBD0FF" class="grid"/>
+<text x="1484" y="154" class="cell" text-anchor="middle">-3.6</text>
+<text x="106" y="192" class="axis" text-anchor="end">2.5 GHz</text>
+<rect x="120" y="168" width="88" height="38" fill="#FFF7F4" class="grid"/>
+<text x="164" y="192" class="cell" text-anchor="middle">0.0</text>
+<rect x="208" y="168" width="88" height="38" fill="#D8E4FF" class="grid"/>
+<text x="252" y="192" class="cell" text-anchor="middle">-1.8</text>
+<rect x="296" y="168" width="88" height="38" fill="#FFDBD8" class="grid"/>
+<text x="340" y="192" class="cell" text-anchor="middle">+1.7</text>
+<rect x="384" y="168" width="88" height="38" fill="#FFF4F1" class="grid"/>
+<text x="428" y="192" class="cell" text-anchor="middle">+0.2</text>
+<rect x="472" y="168" width="88" height="38" fill="#FFE3E0" class="grid"/>
+<text x="516" y="192" class="cell" text-anchor="middle">+1.2</text>
+<rect x="560" y="168" width="88" height="38" fill="#D7E3FF" class="grid"/>
+<text x="604" y="192" class="cell" text-anchor="middle">-1.9</text>
+<rect x="648" y="168" width="88" height="38" fill="#B5CCFF" class="grid"/>
+<text x="692" y="192" class="cell" text-anchor="middle">-4.0</text>
+<rect x="736" y="168" width="88" height="38" fill="#A6C2FF" class="grid"/>
+<text x="780" y="192" class="cell" text-anchor="middle">-4.9</text>
+<rect x="824" y="168" width="88" height="38" fill="#D8E4FF" class="grid"/>
+<text x="868" y="192" class="cell" text-anchor="middle">-1.8</text>
+<rect x="912" y="168" width="88" height="38" fill="#B8CEFF" class="grid"/>
+<text x="956" y="192" class="cell" text-anchor="middle">-3.8</text>
+<rect x="1000" y="168" width="88" height="38" fill="#EFF4FF" class="grid"/>
+<text x="1044" y="192" class="cell" text-anchor="middle">-0.4</text>
+<rect x="1088" y="168" width="88" height="38" fill="#DBE6FF" class="grid"/>
+<text x="1132" y="192" class="cell" text-anchor="middle">-1.6</text>
+<rect x="1176" y="168" width="88" height="38" fill="#FFF2EF" class="grid"/>
+<text x="1220" y="192" class="cell" text-anchor="middle">+0.3</text>
+<rect x="1264" y="168" width="88" height="38" fill="#C3D5FF" class="grid"/>
+<text x="1308" y="192" class="cell" text-anchor="middle">-3.1</text>
+<rect x="1352" y="168" width="88" height="38" fill="#98B8FF" class="grid"/>
+<text x="1396" y="192" class="cell" text-anchor="middle">-5.8</text>
+<rect x="1440" y="168" width="88" height="38" fill="#82A9FF" class="grid"/>
+<text x="1484" y="192" class="cell" text-anchor="middle">-7.1</text>
+<text x="106" y="230" class="axis" text-anchor="end">2.7 GHz</text>
+<rect x="120" y="206" width="88" height="38" fill="#FFF7F4" class="grid"/>
+<text x="164" y="230" class="cell" text-anchor="middle">+0.1</text>
+<rect x="208" y="206" width="88" height="38" fill="#DBE6FF" class="grid"/>
+<text x="252" y="230" class="cell" text-anchor="middle">-1.6</text>
+<rect x="296" y="206" width="88" height="38" fill="#FFF1EE" class="grid"/>
+<text x="340" y="230" class="cell" text-anchor="middle">+0.4</text>
+<rect x="384" y="206" width="88" height="38" fill="#E4ECFF" class="grid"/>
+<text x="428" y="230" class="cell" text-anchor="middle">-1.1</text>
+<rect x="472" y="206" width="88" height="38" fill="#EAF0FF" class="grid"/>
+<text x="516" y="230" class="cell" text-anchor="middle">-0.7</text>
+<rect x="560" y="206" width="88" height="38" fill="#E6EDFF" class="grid"/>
+<text x="604" y="230" class="cell" text-anchor="middle">-1.0</text>
+<rect x="648" y="206" width="88" height="38" fill="#C8D9FF" class="grid"/>
+<text x="692" y="230" class="cell" text-anchor="middle">-2.8</text>
+<rect x="736" y="206" width="88" height="38" fill="#C0D3FF" class="grid"/>
+<text x="780" y="230" class="cell" text-anchor="middle">-3.3</text>
+<rect x="824" y="206" width="88" height="38" fill="#FFD7D4" class="grid"/>
+<text x="868" y="230" class="cell" text-anchor="middle">+2.0</text>
+<rect x="912" y="206" width="88" height="38" fill="#FFEFEC" class="grid"/>
+<text x="956" y="230" class="cell" text-anchor="middle">+0.6</text>
+<rect x="1000" y="206" width="88" height="38" fill="#FFCDCA" class="grid"/>
+<text x="1044" y="230" class="cell" text-anchor="middle">+2.6</text>
+<rect x="1088" y="206" width="88" height="38" fill="#FFE6E3" class="grid"/>
+<text x="1132" y="230" class="cell" text-anchor="middle">+1.1</text>
+<rect x="1176" y="206" width="88" height="38" fill="#FFDAD7" class="grid"/>
+<text x="1220" y="230" class="cell" text-anchor="middle">+1.8</text>
+<rect x="1264" y="206" width="88" height="38" fill="#FFF5F2" class="grid"/>
+<text x="1308" y="230" class="cell" text-anchor="middle">+0.2</text>
+<rect x="1352" y="206" width="88" height="38" fill="#D0DEFF" class="grid"/>
+<text x="1396" y="230" class="cell" text-anchor="middle">-2.3</text>
+<rect x="1440" y="206" width="88" height="38" fill="#C1D4FF" class="grid"/>
+<text x="1484" y="230" class="cell" text-anchor="middle">-3.2</text>
+<text x="106" y="268" class="axis" text-anchor="end">3.0 GHz</text>
+<rect x="120" y="244" width="88" height="38" fill="#FFEEEB" class="grid"/>
+<text x="164" y="268" class="cell" text-anchor="middle">+0.6</text>
+<rect x="208" y="244" width="88" height="38" fill="#EDF3FF" class="grid"/>
+<text x="252" y="268" class="cell" text-anchor="middle">-0.5</text>
+<rect x="296" y="244" width="88" height="38" fill="#FFF4F1" class="grid"/>
+<text x="340" y="268" class="cell" text-anchor="middle">+0.2</text>
+<rect x="384" y="244" width="88" height="38" fill="#DDE8FF" class="grid"/>
+<text x="428" y="268" class="cell" text-anchor="middle">-1.5</text>
+<rect x="472" y="244" width="88" height="38" fill="#D3E1FF" class="grid"/>
+<text x="516" y="268" class="cell" text-anchor="middle">-2.1</text>
+<rect x="560" y="244" width="88" height="38" fill="#BED2FF" class="grid"/>
+<text x="604" y="268" class="cell" text-anchor="middle">-3.4</text>
+<rect x="648" y="244" width="88" height="38" fill="#ABC5FF" class="grid"/>
+<text x="692" y="268" class="cell" text-anchor="middle">-4.6</text>
+<rect x="736" y="244" width="88" height="38" fill="#B7CDFF" class="grid"/>
+<text x="780" y="268" class="cell" text-anchor="middle">-3.8</text>
+<rect x="824" y="244" width="88" height="38" fill="#FFB2AF" class="grid"/>
+<text x="868" y="268" class="cell" text-anchor="middle">+4.2</text>
+<rect x="912" y="244" width="88" height="38" fill="#FFB0AD" class="grid"/>
+<text x="956" y="268" class="cell" text-anchor="middle">+4.3</text>
+<rect x="1000" y="244" width="88" height="38" fill="#FFA6A3" class="grid"/>
+<text x="1044" y="268" class="cell" text-anchor="middle">+4.9</text>
+<rect x="1088" y="244" width="88" height="38" fill="#FFBFBC" class="grid"/>
+<text x="1132" y="268" class="cell" text-anchor="middle">+3.4</text>
+<rect x="1176" y="244" width="88" height="38" fill="#FFDEDB" class="grid"/>
+<text x="1220" y="268" class="cell" text-anchor="middle">+1.6</text>
+<rect x="1264" y="244" width="88" height="38" fill="#E7EEFF" class="grid"/>
+<text x="1308" y="268" class="cell" text-anchor="middle">-0.9</text>
+<rect x="1352" y="244" width="88" height="38" fill="#C8D9FF" class="grid"/>
+<text x="1396" y="268" class="cell" text-anchor="middle">-2.8</text>
+<rect x="1440" y="244" width="88" height="38" fill="#E4EDFF" class="grid"/>
+<text x="1484" y="268" class="cell" text-anchor="middle">-1.0</text>
+<text x="106" y="306" class="axis" text-anchor="end">3.3 GHz</text>
+<rect x="120" y="282" width="88" height="38" fill="#FFF6F3" class="grid"/>
+<text x="164" y="306" class="cell" text-anchor="middle">+0.1</text>
+<rect x="208" y="282" width="88" height="38" fill="#FFE4E1" class="grid"/>
+<text x="252" y="306" class="cell" text-anchor="middle">+1.2</text>
+<rect x="296" y="282" width="88" height="38" fill="#FFECE9" class="grid"/>
+<text x="340" y="306" class="cell" text-anchor="middle">+0.7</text>
+<rect x="384" y="282" width="88" height="38" fill="#FFF3F0" class="grid"/>
+<text x="428" y="306" class="cell" text-anchor="middle">+0.3</text>
+<rect x="472" y="282" width="88" height="38" fill="#D1DFFF" class="grid"/>
+<text x="516" y="306" class="cell" text-anchor="middle">-2.2</text>
+<rect x="560" y="282" width="88" height="38" fill="#ACC6FF" class="grid"/>
+<text x="604" y="306" class="cell" text-anchor="middle">-4.5</text>
+<rect x="648" y="282" width="88" height="38" fill="#B9CFFF" class="grid"/>
+<text x="692" y="306" class="cell" text-anchor="middle">-3.7</text>
+<rect x="736" y="282" width="88" height="38" fill="#C7D8FF" class="grid"/>
+<text x="780" y="306" class="cell" text-anchor="middle">-2.9</text>
+<rect x="824" y="282" width="88" height="38" fill="#FFC2BF" class="grid"/>
+<text x="868" y="306" class="cell" text-anchor="middle">+3.2</text>
+<rect x="912" y="282" width="88" height="38" fill="#FFB5B2" class="grid"/>
+<text x="956" y="306" class="cell" text-anchor="middle">+4.0</text>
+<rect x="1000" y="282" width="88" height="38" fill="#FFC5C2" class="grid"/>
+<text x="1044" y="306" class="cell" text-anchor="middle">+3.1</text>
+<rect x="1088" y="282" width="88" height="38" fill="#FFD1CE" class="grid"/>
+<text x="1132" y="306" class="cell" text-anchor="middle">+2.4</text>
+<rect x="1176" y="282" width="88" height="38" fill="#EBF1FF" class="grid"/>
+<text x="1220" y="306" class="cell" text-anchor="middle">-0.6</text>
+<rect x="1264" y="282" width="88" height="38" fill="#C4D6FF" class="grid"/>
+<text x="1308" y="306" class="cell" text-anchor="middle">-3.1</text>
+<rect x="1352" y="282" width="88" height="38" fill="#D0DFFF" class="grid"/>
+<text x="1396" y="306" class="cell" text-anchor="middle">-2.3</text>
+<rect x="1440" y="282" width="88" height="38" fill="#E6EDFF" class="grid"/>
+<text x="1484" y="306" class="cell" text-anchor="middle">-1.0</text>
+<text x="106" y="344" class="axis" text-anchor="end">3.5 GHz</text>
+<rect x="120" y="320" width="88" height="38" fill="#FFF5F2" class="grid"/>
+<text x="164" y="344" class="cell" text-anchor="middle">+0.2</text>
+<rect x="208" y="320" width="88" height="38" fill="#FFC8C5" class="grid"/>
+<text x="252" y="344" class="cell" text-anchor="middle">+2.9</text>
+<rect x="296" y="320" width="88" height="38" fill="#FFD6D3" class="grid"/>
+<text x="340" y="344" class="cell" text-anchor="middle">+2.1</text>
+<rect x="384" y="320" width="88" height="38" fill="#FFBDBA" class="grid"/>
+<text x="428" y="344" class="cell" text-anchor="middle">+3.5</text>
+<rect x="472" y="320" width="88" height="38" fill="#FFA6A3" class="grid"/>
+<text x="516" y="344" class="cell" text-anchor="middle">+4.9</text>
+<rect x="560" y="320" width="88" height="38" fill="#FFC9C6" class="grid"/>
+<text x="604" y="344" class="cell" text-anchor="middle">+2.8</text>
+<rect x="648" y="320" width="88" height="38" fill="#FFEAE7" class="grid"/>
+<text x="692" y="344" class="cell" text-anchor="middle">+0.9</text>
+<rect x="736" y="320" width="88" height="38" fill="#EDF3FF" class="grid"/>
+<text x="780" y="344" class="cell" text-anchor="middle">-0.5</text>
+<rect x="824" y="320" width="88" height="38" fill="#FFF7F4" class="grid"/>
+<text x="868" y="344" class="cell" text-anchor="middle">+0.1</text>
+<rect x="912" y="320" width="88" height="38" fill="#FFD3D0" class="grid"/>
+<text x="956" y="344" class="cell" text-anchor="middle">+2.2</text>
+<rect x="1000" y="320" width="88" height="38" fill="#FFE8E5" class="grid"/>
+<text x="1044" y="344" class="cell" text-anchor="middle">+1.0</text>
+<rect x="1088" y="320" width="88" height="38" fill="#FFD2CF" class="grid"/>
+<text x="1132" y="344" class="cell" text-anchor="middle">+2.3</text>
+<rect x="1176" y="320" width="88" height="38" fill="#FFBFBC" class="grid"/>
+<text x="1220" y="344" class="cell" text-anchor="middle">+3.4</text>
+<rect x="1264" y="320" width="88" height="38" fill="#FFDDDA" class="grid"/>
+<text x="1308" y="344" class="cell" text-anchor="middle">+1.6</text>
+<rect x="1352" y="320" width="88" height="38" fill="#FFF8F5" class="grid"/>
+<text x="1396" y="344" class="cell" text-anchor="middle">0.0</text>
+<rect x="1440" y="320" width="88" height="38" fill="#E9F0FF" class="grid"/>
+<text x="1484" y="344" class="cell" text-anchor="middle">-0.7</text>
+<text x="106" y="382" class="axis" text-anchor="end">3.8 GHz</text>
+<rect x="120" y="358" width="88" height="38" fill="#FFF7F4" class="grid"/>
+<text x="164" y="382" class="cell" text-anchor="middle">0.0</text>
+<rect x="208" y="358" width="88" height="38" fill="#FFB0AD" class="grid"/>
+<text x="252" y="382" class="cell" text-anchor="middle">+4.3</text>
+<rect x="296" y="358" width="88" height="38" fill="#FFDEDB" class="grid"/>
+<text x="340" y="382" class="cell" text-anchor="middle">+1.6</text>
+<rect x="384" y="358" width="88" height="38" fill="#FFC6C3" class="grid"/>
+<text x="428" y="382" class="cell" text-anchor="middle">+3.0</text>
+<rect x="472" y="358" width="88" height="38" fill="#E7EEFF" class="grid"/>
+<text x="516" y="382" class="cell" text-anchor="middle">-0.9</text>
+<rect x="560" y="358" width="88" height="38" fill="#C4D6FF" class="grid"/>
+<text x="604" y="382" class="cell" text-anchor="middle">-3.0</text>
+<rect x="648" y="358" width="88" height="38" fill="#E8EFFF" class="grid"/>
+<text x="692" y="382" class="cell" text-anchor="middle">-0.8</text>
+<rect x="736" y="358" width="88" height="38" fill="#FFF3F0" class="grid"/>
+<text x="780" y="382" class="cell" text-anchor="middle">+0.3</text>
+<rect x="824" y="358" width="88" height="38" fill="#B4CBFF" class="grid"/>
+<text x="868" y="382" class="cell" text-anchor="middle">-4.0</text>
+<rect x="912" y="358" width="88" height="38" fill="#F0F4FF" class="grid"/>
+<text x="956" y="382" class="cell" text-anchor="middle">-0.3</text>
+<rect x="1000" y="358" width="88" height="38" fill="#BED2FF" class="grid"/>
+<text x="1044" y="382" class="cell" text-anchor="middle">-3.4</text>
+<rect x="1088" y="358" width="88" height="38" fill="#DBE6FF" class="grid"/>
+<text x="1132" y="382" class="cell" text-anchor="middle">-1.6</text>
+<rect x="1176" y="358" width="88" height="38" fill="#A8C3FF" class="grid"/>
+<text x="1220" y="382" class="cell" text-anchor="middle">-4.8</text>
+<rect x="1264" y="358" width="88" height="38" fill="#8EB1FF" class="grid"/>
+<text x="1308" y="382" class="cell" text-anchor="middle">-6.4</text>
+<rect x="1352" y="358" width="88" height="38" fill="#B5CCFF" class="grid"/>
+<text x="1396" y="382" class="cell" text-anchor="middle">-4.0</text>
+<rect x="1440" y="358" width="88" height="38" fill="#C8D9FF" class="grid"/>
+<text x="1484" y="382" class="cell" text-anchor="middle">-2.8</text>
+<text x="20" y="521" class="panel">CH2</text>
+<text x="164" y="491" class="axis" text-anchor="middle">0°</text>
+<text x="252" y="491" class="axis" text-anchor="middle">22.5°</text>
+<text x="340" y="491" class="axis" text-anchor="middle">45°</text>
+<text x="428" y="491" class="axis" text-anchor="middle">67.5°</text>
+<text x="516" y="491" class="axis" text-anchor="middle">90°</text>
+<text x="604" y="491" class="axis" text-anchor="middle">112.5°</text>
+<text x="692" y="491" class="axis" text-anchor="middle">135°</text>
+<text x="780" y="491" class="axis" text-anchor="middle">157.5°</text>
+<text x="868" y="491" class="axis" text-anchor="middle">180°</text>
+<text x="956" y="491" class="axis" text-anchor="middle">202.5°</text>
+<text x="1044" y="491" class="axis" text-anchor="middle">225°</text>
+<text x="1132" y="491" class="axis" text-anchor="middle">247.5°</text>
+<text x="1220" y="491" class="axis" text-anchor="middle">270°</text>
+<text x="1308" y="491" class="axis" text-anchor="middle">292.5°</text>
+<text x="1396" y="491" class="axis" text-anchor="middle">315°</text>
+<text x="1484" y="491" class="axis" text-anchor="middle">337.5°</text>
+<text x="106" y="525" class="axis" text-anchor="end">2.3 GHz</text>
+<rect x="120" y="501" width="88" height="38" fill="#F3F7FF" class="grid"/>
+<text x="164" y="525" class="cell" text-anchor="middle">-0.1</text>
+<rect x="208" y="501" width="88" height="38" fill="#D3E1FF" class="grid"/>
+<text x="252" y="525" class="cell" text-anchor="middle">-2.1</text>
+<rect x="296" y="501" width="88" height="38" fill="#FFD2CF" class="grid"/>
+<text x="340" y="525" class="cell" text-anchor="middle">+2.3</text>
+<rect x="384" y="501" width="88" height="38" fill="#FFDEDB" class="grid"/>
+<text x="428" y="525" class="cell" text-anchor="middle">+1.6</text>
+<rect x="472" y="501" width="88" height="38" fill="#FFABA8" class="grid"/>
+<text x="516" y="525" class="cell" text-anchor="middle">+4.6</text>
+<rect x="560" y="501" width="88" height="38" fill="#FFE4E1" class="grid"/>
+<text x="604" y="525" class="cell" text-anchor="middle">+1.2</text>
+<rect x="648" y="501" width="88" height="38" fill="#EFF4FF" class="grid"/>
+<text x="692" y="525" class="cell" text-anchor="middle">-0.4</text>
+<rect x="736" y="501" width="88" height="38" fill="#E3EBFF" class="grid"/>
+<text x="780" y="525" class="cell" text-anchor="middle">-1.1</text>
+<rect x="824" y="501" width="88" height="38" fill="#97B7FF" class="grid"/>
+<text x="868" y="525" class="cell" text-anchor="middle">-5.8</text>
+<rect x="912" y="501" width="88" height="38" fill="#6C9AFF" class="grid"/>
+<text x="956" y="525" class="cell" text-anchor="middle">-8.5</text>
+<rect x="1000" y="501" width="88" height="38" fill="#ADC6FF" class="grid"/>
+<text x="1044" y="525" class="cell" text-anchor="middle">-4.5</text>
+<rect x="1088" y="501" width="88" height="38" fill="#A4C0FF" class="grid"/>
+<text x="1132" y="525" class="cell" text-anchor="middle">-5.0</text>
+<rect x="1176" y="501" width="88" height="38" fill="#ECF2FF" class="grid"/>
+<text x="1220" y="525" class="cell" text-anchor="middle">-0.6</text>
+<rect x="1264" y="501" width="88" height="38" fill="#B3CBFF" class="grid"/>
+<text x="1308" y="525" class="cell" text-anchor="middle">-4.1</text>
+<rect x="1352" y="501" width="88" height="38" fill="#8FB2FF" class="grid"/>
+<text x="1396" y="525" class="cell" text-anchor="middle">-6.3</text>
+<rect x="1440" y="501" width="88" height="38" fill="#77A1FF" class="grid"/>
+<text x="1484" y="525" class="cell" text-anchor="middle">-7.8</text>
+<text x="106" y="563" class="axis" text-anchor="end">2.4 GHz</text>
+<rect x="120" y="539" width="88" height="38" fill="#F5F8FF" class="grid"/>
+<text x="164" y="563" class="cell" text-anchor="middle">0.0</text>
+<rect x="208" y="539" width="88" height="38" fill="#CFDEFF" class="grid"/>
+<text x="252" y="563" class="cell" text-anchor="middle">-2.3</text>
+<rect x="296" y="539" width="88" height="38" fill="#FFF7F4" class="grid"/>
+<text x="340" y="563" class="cell" text-anchor="middle">0.0</text>
+<rect x="384" y="539" width="88" height="38" fill="#D2E0FF" class="grid"/>
+<text x="428" y="563" class="cell" text-anchor="middle">-2.2</text>
+<rect x="472" y="539" width="88" height="38" fill="#ECF2FF" class="grid"/>
+<text x="516" y="563" class="cell" text-anchor="middle">-0.6</text>
+<rect x="560" y="539" width="88" height="38" fill="#FFF3F0" class="grid"/>
+<text x="604" y="563" class="cell" text-anchor="middle">+0.3</text>
+<rect x="648" y="539" width="88" height="38" fill="#FFEBE8" class="grid"/>
+<text x="692" y="563" class="cell" text-anchor="middle">+0.8</text>
+<rect x="736" y="539" width="88" height="38" fill="#F0F5FF" class="grid"/>
+<text x="780" y="563" class="cell" text-anchor="middle">-0.3</text>
+<rect x="824" y="539" width="88" height="38" fill="#CCDCFF" class="grid"/>
+<text x="868" y="563" class="cell" text-anchor="middle">-2.6</text>
+<rect x="912" y="539" width="88" height="38" fill="#A4C0FF" class="grid"/>
+<text x="956" y="563" class="cell" text-anchor="middle">-5.0</text>
+<rect x="1000" y="539" width="88" height="38" fill="#C9DAFF" class="grid"/>
+<text x="1044" y="563" class="cell" text-anchor="middle">-2.7</text>
+<rect x="1088" y="539" width="88" height="38" fill="#ACC6FF" class="grid"/>
+<text x="1132" y="563" class="cell" text-anchor="middle">-4.5</text>
+<rect x="1176" y="539" width="88" height="38" fill="#D0DFFF" class="grid"/>
+<text x="1220" y="563" class="cell" text-anchor="middle">-2.3</text>
+<rect x="1264" y="539" width="88" height="38" fill="#D5E2FF" class="grid"/>
+<text x="1308" y="563" class="cell" text-anchor="middle">-2.0</text>
+<rect x="1352" y="539" width="88" height="38" fill="#CEDDFF" class="grid"/>
+<text x="1396" y="563" class="cell" text-anchor="middle">-2.4</text>
+<rect x="1440" y="539" width="88" height="38" fill="#BBD0FF" class="grid"/>
+<text x="1484" y="563" class="cell" text-anchor="middle">-3.6</text>
+<text x="106" y="601" class="axis" text-anchor="end">2.5 GHz</text>
+<rect x="120" y="577" width="88" height="38" fill="#F5F8FF" class="grid"/>
+<text x="164" y="601" class="cell" text-anchor="middle">0.0</text>
+<rect x="208" y="577" width="88" height="38" fill="#DAE5FF" class="grid"/>
+<text x="252" y="601" class="cell" text-anchor="middle">-1.7</text>
+<rect x="296" y="577" width="88" height="38" fill="#FFE7E4" class="grid"/>
+<text x="340" y="601" class="cell" text-anchor="middle">+1.0</text>
+<rect x="384" y="577" width="88" height="38" fill="#EEF3FF" class="grid"/>
+<text x="428" y="601" class="cell" text-anchor="middle">-0.4</text>
+<rect x="472" y="577" width="88" height="38" fill="#EDF2FF" class="grid"/>
+<text x="516" y="601" class="cell" text-anchor="middle">-0.5</text>
+<rect x="560" y="577" width="88" height="38" fill="#BAD0FF" class="grid"/>
+<text x="604" y="601" class="cell" text-anchor="middle">-3.6</text>
+<rect x="648" y="577" width="88" height="38" fill="#9DBCFF" class="grid"/>
+<text x="692" y="601" class="cell" text-anchor="middle">-5.4</text>
+<rect x="736" y="577" width="88" height="38" fill="#A3C0FF" class="grid"/>
+<text x="780" y="601" class="cell" text-anchor="middle">-5.1</text>
+<rect x="824" y="577" width="88" height="38" fill="#D5E2FF" class="grid"/>
+<text x="868" y="601" class="cell" text-anchor="middle">-2.0</text>
+<rect x="912" y="577" width="88" height="38" fill="#B6CDFF" class="grid"/>
+<text x="956" y="601" class="cell" text-anchor="middle">-3.9</text>
+<rect x="1000" y="577" width="88" height="38" fill="#DEE8FF" class="grid"/>
+<text x="1044" y="601" class="cell" text-anchor="middle">-1.4</text>
+<rect x="1088" y="577" width="88" height="38" fill="#C8D9FF" class="grid"/>
+<text x="1132" y="601" class="cell" text-anchor="middle">-2.8</text>
+<rect x="1176" y="577" width="88" height="38" fill="#D7E3FF" class="grid"/>
+<text x="1220" y="601" class="cell" text-anchor="middle">-1.9</text>
+<rect x="1264" y="577" width="88" height="38" fill="#9DBCFF" class="grid"/>
+<text x="1308" y="601" class="cell" text-anchor="middle">-5.4</text>
+<rect x="1352" y="577" width="88" height="38" fill="#76A0FF" class="grid"/>
+<text x="1396" y="601" class="cell" text-anchor="middle">-7.9</text>
+<rect x="1440" y="577" width="88" height="38" fill="#76A0FF" class="grid"/>
+<text x="1484" y="601" class="cell" text-anchor="middle">-7.9</text>
+<text x="106" y="639" class="axis" text-anchor="end">2.7 GHz</text>
+<rect x="120" y="615" width="88" height="38" fill="#F4F8FF" class="grid"/>
+<text x="164" y="639" class="cell" text-anchor="middle">0.0</text>
+<rect x="208" y="615" width="88" height="38" fill="#DEE8FF" class="grid"/>
+<text x="252" y="639" class="cell" text-anchor="middle">-1.4</text>
+<rect x="296" y="615" width="88" height="38" fill="#FFF0ED" class="grid"/>
+<text x="340" y="639" class="cell" text-anchor="middle">+0.5</text>
+<rect x="384" y="615" width="88" height="38" fill="#E4EDFF" class="grid"/>
+<text x="428" y="639" class="cell" text-anchor="middle">-1.0</text>
+<rect x="472" y="615" width="88" height="38" fill="#D4E2FF" class="grid"/>
+<text x="516" y="639" class="cell" text-anchor="middle">-2.0</text>
+<rect x="560" y="615" width="88" height="38" fill="#B2C9FF" class="grid"/>
+<text x="604" y="639" class="cell" text-anchor="middle">-4.2</text>
+<rect x="648" y="615" width="88" height="38" fill="#96B7FF" class="grid"/>
+<text x="692" y="639" class="cell" text-anchor="middle">-5.9</text>
+<rect x="736" y="615" width="88" height="38" fill="#A4C0FF" class="grid"/>
+<text x="780" y="639" class="cell" text-anchor="middle">-5.0</text>
+<rect x="824" y="615" width="88" height="38" fill="#FFE4E1" class="grid"/>
+<text x="868" y="639" class="cell" text-anchor="middle">+1.2</text>
+<rect x="912" y="615" width="88" height="38" fill="#F5F8FF" class="grid"/>
+<text x="956" y="639" class="cell" text-anchor="middle">0.0</text>
+<rect x="1000" y="615" width="88" height="38" fill="#FFDBD8" class="grid"/>
+<text x="1044" y="639" class="cell" text-anchor="middle">+1.7</text>
+<rect x="1088" y="615" width="88" height="38" fill="#FFF3F0" class="grid"/>
+<text x="1132" y="639" class="cell" text-anchor="middle">+0.3</text>
+<rect x="1176" y="615" width="88" height="38" fill="#F0F4FF" class="grid"/>
+<text x="1220" y="639" class="cell" text-anchor="middle">-0.3</text>
+<rect x="1264" y="615" width="88" height="38" fill="#BED2FF" class="grid"/>
+<text x="1308" y="639" class="cell" text-anchor="middle">-3.4</text>
+<rect x="1352" y="615" width="88" height="38" fill="#92B4FF" class="grid"/>
+<text x="1396" y="639" class="cell" text-anchor="middle">-6.1</text>
+<rect x="1440" y="615" width="88" height="38" fill="#9BBAFF" class="grid"/>
+<text x="1484" y="639" class="cell" text-anchor="middle">-5.6</text>
+<text x="106" y="677" class="axis" text-anchor="end">3.0 GHz</text>
+<rect x="120" y="653" width="88" height="38" fill="#F4F7FF" class="grid"/>
+<text x="164" y="677" class="cell" text-anchor="middle">-0.1</text>
+<rect x="208" y="653" width="88" height="38" fill="#E8EFFF" class="grid"/>
+<text x="252" y="677" class="cell" text-anchor="middle">-0.8</text>
+<rect x="296" y="653" width="88" height="38" fill="#F0F5FF" class="grid"/>
+<text x="340" y="677" class="cell" text-anchor="middle">-0.3</text>
+<rect x="384" y="653" width="88" height="38" fill="#D1DFFF" class="grid"/>
+<text x="428" y="677" class="cell" text-anchor="middle">-2.3</text>
+<rect x="472" y="653" width="88" height="38" fill="#B0C8FF" class="grid"/>
+<text x="516" y="677" class="cell" text-anchor="middle">-4.3</text>
+<rect x="560" y="653" width="88" height="38" fill="#8CB0FF" class="grid"/>
+<text x="604" y="677" class="cell" text-anchor="middle">-6.5</text>
+<rect x="648" y="653" width="88" height="38" fill="#6998FF" class="grid"/>
+<text x="692" y="677" class="cell" text-anchor="middle">-8.7</text>
+<rect x="736" y="653" width="88" height="38" fill="#6E9BFF" class="grid"/>
+<text x="780" y="677" class="cell" text-anchor="middle">-8.4</text>
+<rect x="824" y="653" width="88" height="38" fill="#EDF2FF" class="grid"/>
+<text x="868" y="677" class="cell" text-anchor="middle">-0.5</text>
+<rect x="912" y="653" width="88" height="38" fill="#F1F5FF" class="grid"/>
+<text x="956" y="677" class="cell" text-anchor="middle">-0.2</text>
+<rect x="1000" y="653" width="88" height="38" fill="#FFE8E5" class="grid"/>
+<text x="1044" y="677" class="cell" text-anchor="middle">+1.0</text>
+<rect x="1088" y="653" width="88" height="38" fill="#FFF7F4" class="grid"/>
+<text x="1132" y="677" class="cell" text-anchor="middle">+0.1</text>
+<rect x="1176" y="653" width="88" height="38" fill="#E4ECFF" class="grid"/>
+<text x="1220" y="677" class="cell" text-anchor="middle">-1.1</text>
+<rect x="1264" y="653" width="88" height="38" fill="#CADAFF" class="grid"/>
+<text x="1308" y="677" class="cell" text-anchor="middle">-2.7</text>
+<rect x="1352" y="653" width="88" height="38" fill="#B0C9FF" class="grid"/>
+<text x="1396" y="677" class="cell" text-anchor="middle">-4.3</text>
+<rect x="1440" y="653" width="88" height="38" fill="#CADAFF" class="grid"/>
+<text x="1484" y="677" class="cell" text-anchor="middle">-2.7</text>
+<text x="106" y="715" class="axis" text-anchor="end">3.3 GHz</text>
+<rect x="120" y="691" width="88" height="38" fill="#F3F7FF" class="grid"/>
+<text x="164" y="715" class="cell" text-anchor="middle">-0.1</text>
+<rect x="208" y="691" width="88" height="38" fill="#EEF3FF" class="grid"/>
+<text x="252" y="715" class="cell" text-anchor="middle">-0.4</text>
+<rect x="296" y="691" width="88" height="38" fill="#CCDCFF" class="grid"/>
+<text x="340" y="715" class="cell" text-anchor="middle">-2.6</text>
+<rect x="384" y="691" width="88" height="38" fill="#D6E2FF" class="grid"/>
+<text x="428" y="715" class="cell" text-anchor="middle">-1.9</text>
+<rect x="472" y="691" width="88" height="38" fill="#C6D7FF" class="grid"/>
+<text x="516" y="715" class="cell" text-anchor="middle">-2.9</text>
+<rect x="560" y="691" width="88" height="38" fill="#D0DEFF" class="grid"/>
+<text x="604" y="715" class="cell" text-anchor="middle">-2.3</text>
+<rect x="648" y="691" width="88" height="38" fill="#CFDEFF" class="grid"/>
+<text x="692" y="715" class="cell" text-anchor="middle">-2.4</text>
+<rect x="736" y="691" width="88" height="38" fill="#CDDCFF" class="grid"/>
+<text x="780" y="715" class="cell" text-anchor="middle">-2.5</text>
+<rect x="824" y="691" width="88" height="38" fill="#E6EEFF" class="grid"/>
+<text x="868" y="715" class="cell" text-anchor="middle">-0.9</text>
+<rect x="912" y="691" width="88" height="38" fill="#E5EDFF" class="grid"/>
+<text x="956" y="715" class="cell" text-anchor="middle">-1.0</text>
+<rect x="1000" y="691" width="88" height="38" fill="#C1D4FF" class="grid"/>
+<text x="1044" y="715" class="cell" text-anchor="middle">-3.2</text>
+<rect x="1088" y="691" width="88" height="38" fill="#D3E0FF" class="grid"/>
+<text x="1132" y="715" class="cell" text-anchor="middle">-2.1</text>
+<rect x="1176" y="691" width="88" height="38" fill="#CDDDFF" class="grid"/>
+<text x="1220" y="715" class="cell" text-anchor="middle">-2.5</text>
+<rect x="1264" y="691" width="88" height="38" fill="#E4ECFF" class="grid"/>
+<text x="1308" y="715" class="cell" text-anchor="middle">-1.1</text>
+<rect x="1352" y="691" width="88" height="38" fill="#E8EFFF" class="grid"/>
+<text x="1396" y="715" class="cell" text-anchor="middle">-0.8</text>
+<rect x="1440" y="691" width="88" height="38" fill="#F4F7FF" class="grid"/>
+<text x="1484" y="715" class="cell" text-anchor="middle">-0.1</text>
+<text x="106" y="753" class="axis" text-anchor="end">3.5 GHz</text>
+<rect x="120" y="729" width="88" height="38" fill="#F2F6FF" class="grid"/>
+<text x="164" y="753" class="cell" text-anchor="middle">-0.2</text>
+<rect x="208" y="729" width="88" height="38" fill="#EFF4FF" class="grid"/>
+<text x="252" y="753" class="cell" text-anchor="middle">-0.4</text>
+<rect x="296" y="729" width="88" height="38" fill="#CCDCFF" class="grid"/>
+<text x="340" y="753" class="cell" text-anchor="middle">-2.6</text>
+<rect x="384" y="729" width="88" height="38" fill="#D3E1FF" class="grid"/>
+<text x="428" y="753" class="cell" text-anchor="middle">-2.1</text>
+<rect x="472" y="729" width="88" height="38" fill="#BED2FF" class="grid"/>
+<text x="516" y="753" class="cell" text-anchor="middle">-3.4</text>
+<rect x="560" y="729" width="88" height="38" fill="#CEDDFF" class="grid"/>
+<text x="604" y="753" class="cell" text-anchor="middle">-2.4</text>
+<rect x="648" y="729" width="88" height="38" fill="#FFF1EE" class="grid"/>
+<text x="692" y="753" class="cell" text-anchor="middle">+0.4</text>
+<rect x="736" y="729" width="88" height="38" fill="#FFD5D2" class="grid"/>
+<text x="780" y="753" class="cell" text-anchor="middle">+2.1</text>
+<rect x="824" y="729" width="88" height="38" fill="#E5EDFF" class="grid"/>
+<text x="868" y="753" class="cell" text-anchor="middle">-1.0</text>
+<rect x="912" y="729" width="88" height="38" fill="#EAF0FF" class="grid"/>
+<text x="956" y="753" class="cell" text-anchor="middle">-0.7</text>
+<rect x="1000" y="729" width="88" height="38" fill="#C8D9FF" class="grid"/>
+<text x="1044" y="753" class="cell" text-anchor="middle">-2.8</text>
+<rect x="1088" y="729" width="88" height="38" fill="#D2E0FF" class="grid"/>
+<text x="1132" y="753" class="cell" text-anchor="middle">-2.2</text>
+<rect x="1176" y="729" width="88" height="38" fill="#BED2FF" class="grid"/>
+<text x="1220" y="753" class="cell" text-anchor="middle">-3.4</text>
+<rect x="1264" y="729" width="88" height="38" fill="#D3E1FF" class="grid"/>
+<text x="1308" y="753" class="cell" text-anchor="middle">-2.1</text>
+<rect x="1352" y="729" width="88" height="38" fill="#FFEBE8" class="grid"/>
+<text x="1396" y="753" class="cell" text-anchor="middle">+0.8</text>
+<rect x="1440" y="729" width="88" height="38" fill="#FFCCC9" class="grid"/>
+<text x="1484" y="753" class="cell" text-anchor="middle">+2.6</text>
+<text x="106" y="791" class="axis" text-anchor="end">3.8 GHz</text>
+<rect x="120" y="767" width="88" height="38" fill="#F4F8FF" class="grid"/>
+<text x="164" y="791" class="cell" text-anchor="middle">0.0</text>
+<rect x="208" y="767" width="88" height="38" fill="#FFB8B5" class="grid"/>
+<text x="252" y="791" class="cell" text-anchor="middle">+3.9</text>
+<rect x="296" y="767" width="88" height="38" fill="#FFE7E4" class="grid"/>
+<text x="340" y="791" class="cell" text-anchor="middle">+1.0</text>
+<rect x="384" y="767" width="88" height="38" fill="#FFC9C6" class="grid"/>
+<text x="428" y="791" class="cell" text-anchor="middle">+2.8</text>
+<rect x="472" y="767" width="88" height="38" fill="#E5EDFF" class="grid"/>
+<text x="516" y="791" class="cell" text-anchor="middle">-1.0</text>
+<rect x="560" y="767" width="88" height="38" fill="#CFDDFF" class="grid"/>
+<text x="604" y="791" class="cell" text-anchor="middle">-2.4</text>
+<rect x="648" y="767" width="88" height="38" fill="#FFE6E3" class="grid"/>
+<text x="692" y="791" class="cell" text-anchor="middle">+1.1</text>
+<rect x="736" y="767" width="88" height="38" fill="#FFC8C5" class="grid"/>
+<text x="780" y="791" class="cell" text-anchor="middle">+2.9</text>
+<rect x="824" y="767" width="88" height="38" fill="#D9E5FF" class="grid"/>
+<text x="868" y="791" class="cell" text-anchor="middle">-1.7</text>
+<rect x="912" y="767" width="88" height="38" fill="#FFD6D3" class="grid"/>
+<text x="956" y="791" class="cell" text-anchor="middle">+2.0</text>
+<rect x="1000" y="767" width="88" height="38" fill="#E1EAFF" class="grid"/>
+<text x="1044" y="791" class="cell" text-anchor="middle">-1.3</text>
+<rect x="1088" y="767" width="88" height="38" fill="#FFF1EE" class="grid"/>
+<text x="1132" y="791" class="cell" text-anchor="middle">+0.4</text>
+<rect x="1176" y="767" width="88" height="38" fill="#C0D3FF" class="grid"/>
+<text x="1220" y="791" class="cell" text-anchor="middle">-3.3</text>
+<rect x="1264" y="767" width="88" height="38" fill="#A3BFFF" class="grid"/>
+<text x="1308" y="791" class="cell" text-anchor="middle">-5.1</text>
+<rect x="1352" y="767" width="88" height="38" fill="#CBDBFF" class="grid"/>
+<text x="1396" y="791" class="cell" text-anchor="middle">-2.6</text>
+<rect x="1440" y="767" width="88" height="38" fill="#D5E2FF" class="grid"/>
+<text x="1484" y="791" class="cell" text-anchor="middle">-2.0</text>
+</svg>

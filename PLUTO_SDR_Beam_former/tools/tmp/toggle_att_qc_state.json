@@ -1,0 +1,13 @@
+{
+    "timestamp":  "2026-07-26T23:08:50.9176380+09:00",
+    "status":  "complete",
+    "attenuation_db":  31.5,
+    "cycle":  280,
+    "half_period_ms":  200,
+    "expected_d0_ic7_qb":  "LOW",
+    "expected_d1_ic7_qc":  "LOW",
+    "expected_d6_ic8_qb":  "LOW",
+    "expected_d7_ic8_qc":  "LOW",
+    "lna1":  "OFF",
+    "lna2":  "OFF"
+}

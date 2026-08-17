@@ -1,0 +1,44 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "host-tests",
+      "displayName": "Host unit tests",
+      "binaryDir": "${sourceDir}/build/host",
+      "cacheVariables": {
+        "BUILD_TESTING": "ON",
+        "RF_BUILD_PICO": "OFF"
+      }
+    },
+    {
+      "name": "pico",
+      "displayName": "RP2040 firmware",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build/pico",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "PICO_BOARD": "pico",
+        "RF_BUILD_PICO": "ON"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "host-tests",
+      "configurePreset": "host-tests"
+    },
+    {
+      "name": "pico",
+      "configurePreset": "pico"
+    }
+  ],
+  "testPresets": [
+    {
+      "name": "host-tests",
+      "configurePreset": "host-tests",
+      "output": {
+        "outputOnFailure": true
+      }
+    }
+  ]
+}
